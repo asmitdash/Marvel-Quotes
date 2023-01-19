@@ -1,0 +1,4 @@
+This code creates a HashMap that contains key-value pairs of hero or villain names and their quotes from the Marvel Cinematic Universe. 
+The code then creates a variable named "heroOrVillain" and assigns it the value "Iron Man". The code then uses the get() method from the HashMap to retrieve 
+the value (quote) associated with the key (heroOrVillain) and prints it to the console. This allows the user to input a specific hero or villain name and have the
+code output a quote associated with that character. This can be useful for creating a trivia game or for displaying quotes on a website or application.
